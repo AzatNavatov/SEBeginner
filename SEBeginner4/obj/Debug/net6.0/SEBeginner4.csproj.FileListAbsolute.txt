@@ -1,0 +1,14 @@
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\bin\Debug\net6.0\SEBeginner4.exe
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\bin\Debug\net6.0\SEBeginner4.deps.json
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\bin\Debug\net6.0\SEBeginner4.runtimeconfig.json
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\bin\Debug\net6.0\SEBeginner4.dll
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\bin\Debug\net6.0\SEBeginner4.pdb
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\obj\Debug\net6.0\SEBeginner4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\obj\Debug\net6.0\SEBeginner4.AssemblyInfoInputs.cache
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\obj\Debug\net6.0\SEBeginner4.AssemblyInfo.cs
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\obj\Debug\net6.0\SEBeginner4.csproj.CoreCompileInputs.cache
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\obj\Debug\net6.0\SEBeginner4.dll
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\obj\Debug\net6.0\refint\SEBeginner4.dll
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\obj\Debug\net6.0\SEBeginner4.pdb
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\obj\Debug\net6.0\SEBeginner4.genruntimeconfig.cache
+D:\Рабочий столо\mydesktop\SECources\BeginnerCSharp\SEBeginner4\obj\Debug\net6.0\ref\SEBeginner4.dll
