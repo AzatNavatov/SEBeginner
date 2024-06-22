@@ -1,0 +1,19 @@
+﻿<Window x:Class="SEBeginner7.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SEBeginner7"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox Name="PunchTypesBox" HorizontalAlignment="Left" Height="32" Margin="78,94,0,0" VerticalAlignment="Top" Width="95" 
+                  />
+        <Button Content="Punch info" HorizontalAlignment="Left" Margin="284,97,0,0" VerticalAlignment="Top" Click="PunchInfo_Click"  />
+        <ComboBox Name="ComboTypesBox" HorizontalAlignment="Left" Height="20" Margin="329,155,0,0" VerticalAlignment="Top" Width="139"/>
+        <Button Content="Random number writer according to combo count" HorizontalAlignment="Left" Height="20" Margin="486,155,0,0" VerticalAlignment="Top" Width="283"
+                Click="MultiplePunchCount_Click"/>
+        <Button Name="btnFileReader" Content="FileReadingExamples" HorizontalAlignment="Left" Height="78" Margin="468,39,0,0" VerticalAlignment="Top" Width="249" Click="btnFileReader_Click"/>
+
+    </Grid>
+</Window>

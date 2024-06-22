@@ -1,0 +1,16 @@
+﻿<Window x:Class="SEBeginner.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SEBeginner"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ComboBox Name="cmbUser"  HorizontalAlignment="Left" Height="23" Margin="10,41,0,0" VerticalAlignment="Top" Width="99"/>
+        <Button x:Name="mmaButton" Content="Show Punch Description" HorizontalAlignment="Left" Height="30" Margin="156,53,0,0"
+                VerticalAlignment="Top" Width="166" Click="mmaButton_Click"/>
+        <ComboBox Name="MultiplePunchCombobox" HorizontalAlignment="Left" Margin="33,141,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="MultiplePunchCombobox_SelectionChanged"/>
+
+    </Grid>
+</Window>
